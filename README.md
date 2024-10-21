@@ -1,2 +1,2 @@
 # first-delta
-This is my sec repository
+This is demo repository for git github class. 
